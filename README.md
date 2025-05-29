@@ -1,5 +1,5 @@
 # qiskit-journey
-# This is created as documentation of my journey to learn Qiskit.
+This is created as documentation of my journey to learn Qiskit.
 # About me:
 # As of 5/29/25 , I am a 18 year old heading into his sophmore year of college.
 # I attened South Dakota School of Mines and Technology, and major in Computer Scince.
